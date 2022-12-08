@@ -1,0 +1,32 @@
+.board-container{
+
+    margin-top:6rem;
+}
+.board-container h1{
+
+    text-align: center;
+}
+.board-row{
+
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(118, 161, 178);
+   
+
+
+}
+
+
+.square{
+
+    border:1px solid rgb(124, 185, 200);
+border-radius: 10px;
+    height:100px;
+    width:200px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:3rem; 
+}
